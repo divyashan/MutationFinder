@@ -1,0 +1,100 @@
+MUTATION IN BRIEF 
+
+HUMAN MUTATION 1:165 (1992) 
+
+Missense Variation of  the CFTR Gene Codon 507 
+Katrin Will,  Manfred Stuhrmann,'  Helmut Ellemunter, Nikola Hoffknecht,  and Jorg Schmidtke 
+Department of  Human Genetics, Medical School,  Hannover. G e m n y  (K. W., M. S., N. H., J. S )  and Childrens Hospital, 
+University of  Innshuck, Austria (H. E.) 
+
+Communicated by  LapChee Tsui 
+
+We analyzed  exon  10 of the CFTR gene  in 44 
+Austrian CF families,  using  the polymerase  chain 
+reaction  (PCR)  and  polyacrylamide  gel  electro- 
+phoresis  (PAGE) methods,  as described  by  Rom- 
+mens et al.  (1990). The three base deletion AF508 
+(Kerem  et  al.,  1989), the  most  frequent  of  the 
+reported  cystic  fibrosis  transmembrane  conduc- 
+tance  regulator  (CFTR)  gene  mutations,  was 
+present in 68 of 88 CF chromosomes. In one family, 
+we  observed  the formation  of  an unusual  hetero- 
+duplex pattern in the mother and the two healthy 
+siblings of a AF508 homozygous CF patient. Direct 
+sequencing of  genomic DNA and of the polyacryl- 
+amide  gel  derived  fragments  revealed  an A  to G 
+substitution of nucleotide 165 I of the mother's non- 
+AF508  allele.  This mutation  results  in  an  amino 
+acid change from isoleucine to valine at residue 507 
+of  the  CFTR  protein  and  was  therefore  named 
+I507V.  We assume  that  I507V is  a  very  rare  mu- 
+tation,  since  we  did  not  observe  any further  case 
+exhibiting the unusual heteroduplex pattern among 
+415AF508 heterozygous  Austrian and German in- 
+dividuals  (185 CF patients  and  230  independent 
+relatives of  AF508 homozygous CF patients). Hap- 
+lotype analysis with CF-linked markers showed that 
+the I507V mutation segregates  in the family  on a 
+2-2-1  (XV2C/TqI, KM19IPst1, J3.11/MspI  allele) 
+haplotype. 
+
+The 40-year-old  AF508/1507V compound  het- 
+erozygous mother shows no symptoms  of  CF.  Her 
+growth  (68.5  kg,  165 cm),  sweat  C1-  level  (27 
+mmovliter), pulmonary function (FVC: 4.37  liters 
+=  110% of  predicted  value;  FEV1: 3.72  liters  = 
+I1 2% of predicted value),  lung X-ray, and pancre- 
+atic function (chymotrypsin in stool: 12 U/g, stool 
+fat content < 7.0 g/24 hr) are within the normal 
+range.  Accordingly,  the  two  AF50811507V  com- 
+pound heterozygous  siblings have no symptoms of 
+cystic fibrosis; the sweat chloride values are within 
+the normal  range. 
+
+A similar observation has been  made  by Koba- 
+
+0 1992 WILEY-LISS, INC. 
+
+yashi  et al.  (1990). These authors  report  the de- 
+tection of an isoleucine to valine change at codon 
+506  (I506V) on a  non-AF508  allele  of  an I506V/ 
+AF508 compound heterozygous person  ( a father of 
+a  CF  patient)  without  clinical  symptoms  of  CF. 
+Although the I506V and I507V mutations both lie 
+within the first putative nucleotide-binding  fold of 
+the CFTR gene product,  they do not seem to alter 
+its function in a disease-causing manner.  The ex- 
+istence  of  these  mutations  should  be  taken  into 
+account while using allele-specific oligonucleotides 
+(ASO) for  molecular  diagnosis,  since  a  wild-type 
+specific AS0 might not hybridize  in the presence 
+of  these variations,  potentially  leading  to diagnos- 
+tic errors. 
+
+ACKNOWLEDGMENTS 
+
+This research was supported by a grant from the 
+
+Deutsche  Forschungsgemeinschaft  to J. S. 
+
+REFERENCES 
+
+Kerem BS,  Rommens JM, Buchanan JA, Markiewicz D, Cox TK, 
+Chakravarti A, Buchwald M, Tsui LC (1989) Identification of 
+the cystic fibrosis gene:  Genetic analysis. Science 245:1073- 
+1080. 
+
+Kobayashi K,  Knowles MR, Boucher RC,  OBrian WE, Beaudet 
+AL  (1990)  Benign  missence  variations in  the  cystic fibrosis 
+gene. Am J  Hum Genet 47:611-615. 
+
+Rommens JM, Kerem  BS,  Greer W,  Chang  P,  Tsui LC,  Ray  P 
+(1990) Rapid  non-radioactive detection  of  the  major  cystic 
+fibrosis mutation. Am J  Hum Genet 46:395-396. 
+
+Received March 12, 1992; accepted April  3, 1992. 
+*To whom  reprint  requestskorrespondence  should  be  ad- 
+
+dressed. 
+
+
