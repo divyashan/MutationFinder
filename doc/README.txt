@@ -7,19 +7,17 @@ Instructions for working with the mutation_finder.py and performance.py scripts
 ----
 INSTALLATION NOTES
 ----
-Download MutationFinder from http://mutationfinder.sourceforge.net. Unpack
-the project with the command:
+MutationFinder is housed at https://github.com/divyashan/MutationFinder. 
 
-tar -xvzf MutationFinder<version_number>.tar.gz
+git clone https://github.com/divyashan/MutationFinder.git
 
 You will now have a new directory called MutationFinder in your current
 working directory.
 
-After downloading and unpacking the system, if you plan to use the
-mutation_finder.py script from any location outside of the install
-directory, it is necessary to update the mutation_finder_home variable
-in mutation_finder.py. Change the value of this variable to the full
-path where your mutation_finder.py file lives.
+If you plan to use the mutation_finder.py script from any location 
+outside of the install directory, it is necessary to update the 
+mutation_finder_home variable in mutation_finder.py. Change the value of this 
+variable to the full path where your mutation_finder.py file lives.
 
 For example, change:
 mutation_finder_home = './'
@@ -30,8 +28,9 @@ mutation_finder_home = '/path/to/MutationFinder'
 ____
 RUNNING MutationFinder
 ____
-If you have a file formatted as described in (Caporaso et al., 2007),
-you can apply MutationFinder with the following steps:
+If you have a file formatted as described in (Caporaso et al., 2007) and
+the input file format section below, you can apply MutationFinder with 
+the following steps:
 
 > cd MutationFinder
 > ./mutation_finder.py /path/to/your/input/file
@@ -140,7 +139,8 @@ MutationFinder/
 
 
 
-Please direct any questions to the author: gregcaporaso@gmail.com
+Please direct any questions to the current host: divyashan@gmail.com.
+You can reach the original author at gregcaporaso@gmail.com
 
 
 ----
@@ -153,6 +153,4 @@ A. Randolph, K. Bretonnel Cohen, and Lawrence Hunter; Bioinformatics, 2007;
 doi: 10.1093/bioinformatics/btm235;
 
 The article is publicly available from the Bioinformatics Journal's website - 
-search under the doi cited above. (Once it goes to press we'll provide a direct
-url for accessing the article. It is currently available via Advance Access,
-and I expect the URL may change.) The article is an Open Access publication.
+search under the doi cited above. The article is an Open Access publication.
