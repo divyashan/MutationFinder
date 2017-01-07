@@ -1,7 +1,7 @@
 # MutationFinder
 An open source library built for identifying mentions of mutations within bodies of text.
 
-A regular expression driven library for extracting mutation mentions (in both protein and chromosome formats) from bodies of text. More details can be found [here](http://mutationfinder.sourceforge.net/) - this project was previously supported by Greg Caporaso and I'll now be maintaining it. The updated project achieves higher accuracy in terms of mutations detected (83% vs. 72%) as evaluated on a test corpora of breast cancer papers.
+A regular expression driven library for extracting mutation mentions (in both protein and chromosome formats) from bodies of text. More details can be found [here](http://mutationfinder.sourceforge.net/) - this project was previously supported by [Greg Caporaso](http://caporasolab.us/) and I'll now be maintaining it. The updated project achieves higher accuracy in terms of mutations detected (83% vs. 72%) as evaluated on a test corpora of breast cancer papers.
 
 ### Input File Format
 
