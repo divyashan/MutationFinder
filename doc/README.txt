@@ -61,10 +61,10 @@ Examples for using the code (tested on MacOS X and Linux -- Windows tests
 
 # Apply MutationFinder to the test set discussed in (Caporaso et al., 2007);
 # the results will be written to test_set.txt.mf
-> ./mutation_finder.py test_set.txt
+> ./mutation_finder.py ./corpora/test_set.txt
 # Compare the output of MutationFinder to the gold standard data and 
 # print the results
-> ./performance.py test_set.txt.mf test_gold_std.txt 
+> ./performance.py ./corpora/test_set.txt.mf ./corpora/test_gold_std.txt 
 # Run the unit tests for the mutation_finder.py script
 > ./test_mutation_finder.py -v
 # Run the unit tests for the performance.py script
